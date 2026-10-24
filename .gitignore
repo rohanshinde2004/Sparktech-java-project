@@ -1,0 +1,23 @@
+# Build output
+target/
+*.jar
+*.war
+*.original
+
+# Local database files
+data/
+*.mv.db
+*.trace.db
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS and logs
+.DS_Store
+Thumbs.db
+*.log
